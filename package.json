@@ -1,0 +1,24 @@
+{
+  "name": "pixeldiffusion",
+  "version": "1.0.0",
+  "description": "Field based pixel simulation using a global monte-carlo step",
+  "main": "index.js",
+  "dependencies": {
+    "@types/three": "^0.173.0",
+    "three": "^0.173.0",
+    "vite": "^6.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Simulation",
+    "ComputeShaders",
+    "Education"
+  ],
+  "author": "BMH Bruininks & M Sivabalanchennai",
+  "license": "MIT"
+}
